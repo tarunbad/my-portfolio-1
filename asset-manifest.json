@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d5286e94.css",
+    "main.js": "/my-portfolio/static/js/main.86e8d6bd.js",
+    "static/media/Coursera(UX-Main).jpg": "/my-portfolio/static/media/Coursera(UX-Main).1d5280c2b67bb8848543.jpg",
+    "static/media/Coursera(full stack).jpg": "/my-portfolio/static/media/Coursera(full stack).742f8ae0541ab50c46af.jpg",
+    "static/media/Coursera(Google Cloud).jpg": "/my-portfolio/static/media/Coursera(Google Cloud).c47eec73dd175e79add9.jpg",
+    "static/media/my resume.pdf": "/my-portfolio/static/media/my resume.1da2a44f4697fbc968b8.pdf",
+    "static/media/itsme_1.png": "/my-portfolio/static/media/itsme_1.088dcae0c0aa0624b8d4.png",
+    "static/media/portfolio_3.png": "/my-portfolio/static/media/portfolio_3.21d01df42c5d9a5c9362.png",
+    "static/media/portfolio6.jpg": "/my-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio_2.png": "/my-portfolio/static/media/portfolio_2.ae9df227f0d7b5a9ff9e.png",
+    "static/media/portfolio_1.png": "/my-portfolio/static/media/portfolio_1.bcb9dfe97c23e28c69b2.png",
+    "static/media/me-about1.jpg": "/my-portfolio/static/media/me-about1.22196945a7fe75ded3f1.jpg",
+    "static/media/portfolio_5.png": "/my-portfolio/static/media/portfolio_5.bb659bcace2968eb8840.png",
+    "static/media/portfolio_4.png": "/my-portfolio/static/media/portfolio_4.b2945b90755d6de42e79.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.d5286e94.css.map": "/my-portfolio/static/css/main.d5286e94.css.map",
+    "main.86e8d6bd.js.map": "/my-portfolio/static/js/main.86e8d6bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5286e94.css",
+    "static/js/main.86e8d6bd.js"
+  ]
+}
