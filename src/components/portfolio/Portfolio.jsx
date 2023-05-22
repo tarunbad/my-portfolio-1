@@ -48,7 +48,7 @@ const data = [
     image: IMG6,
     title: 'In progress',
     github: "https://github.com",
-    demo: "https://leetcode.com"
+    demo: "https://tarunbad.github.io/Waffle-house/"
   }
  
 ]
