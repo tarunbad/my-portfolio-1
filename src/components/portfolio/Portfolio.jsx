@@ -47,8 +47,8 @@ const data = [
     id: 6,
     image: IMG6,
     title: 'In progress',
-    github: "https://github.com",
-    demo: "https://leetcode.com/problemset/all/"
+    github: "https://github.com/tarunbad/Waffle-house",
+    demo: "https://tarunbad.github.io/Waffle-house/"
   }
  
 ]
