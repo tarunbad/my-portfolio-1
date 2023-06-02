@@ -46,8 +46,13 @@ const data = [
   {
     id: 6,
     image: IMG6,
+<<<<<<< HEAD
     title: 'Waffle House (Front-End(React))',
     github: "https://github.com/tarunbad/Waffle-house",
+=======
+    title: 'In progress',
+    github: "https://.github.com/tarunbad/Waffle-house",
+>>>>>>> 8dfde91db69b9808abd542f1899f75af459b33a3
     demo: "https://tarunbad.github.io/Waffle-house/"
   }
  
