@@ -5,7 +5,7 @@ import IMG2 from '../../assets/portfolio_2.png'
 import IMG3 from '../../assets/portfolio_3.png'
 import IMG4 from '../../assets/portfolio_4.png'
 import IMG5 from '../../assets/portfolio_5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG6 from '../../assets/portfolio_6.png'
 
 const data = [
   {
@@ -46,9 +46,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'In progress',
-    github: "https://github.com",
-    demo: "https://github.com"
+    title: 'Waffle House (Front-End(React))',
+    github: "https://github.com/tarunbad/Waffle-house",
+    demo: "https://tarunbad.github.io/Waffle-house/"
   }
  
 ]
